@@ -1,0 +1,131 @@
+
+body{
+  background-color: #DDDDDD;
+}
+.first-div{
+  margin-left: 300px;
+  margin-top: 160px;
+  position: relative;
+}
+.col1{
+  background-color:#FF5722;
+  height: 450px;
+  width: 245px;
+  display: inline-block;
+  position: absolute;
+  left: 10px;
+  border-radius: 15px 0px 0px 15px;
+}
+.bus{
+  padding-left: 40px;
+  padding-top: 40px;
+}
+.h-one{
+  padding-left: 40px;
+  padding-top: 10px;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+}
+.p-one{
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 5px;
+  color: white;
+}
+.button1{
+    display: inline-block;
+    border-radius: 50px;
+    background-color:white;
+    border: none;
+    text-align:center;
+    font-size: 15spx;
+    padding: 10px;
+    width: 150px;
+    margin: 5px;
+    margin-left: 40px;
+}
+.col2{
+  background-color: #1976D2;
+  height: 450px;
+  width: 245px;
+  display: inline-block;
+  position: absolute;
+  left: 255px;
+}
+.motor{
+  padding-left:40px;
+  padding-top: 40px;
+}
+.h-two{
+  padding-left: 40px;
+  padding-top: 30px;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+  
+}
+.p-two{
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+}
+.button2{
+    display: inline-block;
+    border-radius:50px;
+    background-color:white;
+    text-align: center;
+    border: none;
+    font-size: 15px;
+    padding: 10px;
+    width: 150px;
+    margin: 5px;
+    margin-bottom:10px;
+    margin-left: 40px;
+    margin-top:3px;
+}
+.col3{
+  background-color: #19bdd2;
+  height: 450px;
+  width: 245px;
+  display: inline-block;
+  position: absolute;
+  left: 500px;    
+  border-radius: 0px 15px 15px 0px;
+
+}
+.Truck{
+  padding-left: 40px;
+  padding-top: 40px;
+}
+.h-three{
+  padding-left: 40px;
+  padding-top: 30px;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+}
+.p-three{
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+}
+.button3{
+  display: inline-block;
+  border-radius: 50px;
+  background-color:white;
+  border: none;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 150px;
+  margin: 5px;
+  margin-left: 40px;
+  margin-top:20px;
+}
