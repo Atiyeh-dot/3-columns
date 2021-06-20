@@ -16,13 +16,13 @@ body{
   left: 10px;
   border-radius: 15px 0px 0px 15px;
 }
-.bus{
+.sedans{
   padding-left: 40px;
   padding-top: 40px;
 }
 .h-one{
   padding-left: 40px;
-  padding-top: 10px;
+  padding-top: 20px;
   color: white;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 30px;
@@ -55,7 +55,7 @@ body{
   position: absolute;
   left: 255px;
 }
-.motor{
+.suvs{
   padding-left:40px;
   padding-top: 40px;
 }
@@ -98,7 +98,7 @@ body{
   border-radius: 0px 15px 15px 0px;
 
 }
-.Truck{
+.luxury{
   padding-left: 40px;
   padding-top: 40px;
 }
